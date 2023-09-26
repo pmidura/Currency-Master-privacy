@@ -35,7 +35,7 @@ Chcemy poinformować użytkowników tej Usługi, że te osoby trzecie mają dost
 Cenimy zaufanie, jakim darzysz nas, przekazując nam swoje dane osobowe, dlatego staramy się stosować komercyjnie akceptowalne środki ich ochrony. Należy jednak pamiętać, że żadna metoda transmisji przez Internet lub metoda elektronicznego przechowywania danych nie jest w 100% bezpieczna i niezawodna, a my nie możemy zagwarantować ich całkowitego bezpieczeństwa. -->
 
 ### Prywatność dzieci  
-Usługi nie są skierowane do osób poniżej 13 roku życia. Nie zbieramy świadomie danych osobowych od dzieci poniżej 13 roku życia. W przypadku, gdy odkryjemy, że dziecko poniżej 13 roku życia przekazało nam dane osobowe, natychmiast usuniemy je z naszych serwerów. Jeśli jesteś rodzicem lub opiekunem i wiesz, że Twoje dziecko przekazało nam dane osobowe, skontaktuj się z nami, abyśmy mogli podjąć niezbędne działania.  
+Nie zbieramy świadomie danych osobowych od dzieci poniżej 13 roku życia. W przypadku, gdy odkryjemy, że dziecko poniżej 13 roku życia przekazało nam dane osobowe, natychmiast usuniemy je z naszych serwerów. Jeśli jesteś rodzicem lub opiekunem i wiesz, że Twoje dziecko przekazało nam dane osobowe, skontaktuj się z nami, abyśmy mogli podjąć niezbędne działania.  
 
 ### Zmiany w niniejszej Polityce prywatności  
 Od czasu do czasu możemy aktualizować naszą Politykę prywatności. W związku z tym zaleca się okresowe sprawdzanie tej strony pod kątem wszelkich zmian. Powiadomimy użytkownika o wszelkich zmianach, publikując nową Politykę prywatności na tej stronie. Zmiany te wchodzą w życie natychmiast po ich opublikowaniu na tej stronie.  
@@ -84,7 +84,7 @@ We want to inform users of this Service that these third parties have access to 
 We value the trust you place in us by providing us with your personal information, so we strive to use commercially acceptable means to protect it. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its complete security. -->
 
 ### Children's privacy  
-The Services are not directed to persons under the age of 13. We do not knowingly collect personal information from children under the age of 13. In the event that we discover that a child under the age of 13 has provided us with personal information, we will immediately remove it from our servers. If you are a parent or guardian and know that your child has provided us with personal information, please contact us so that we can take the necessary action.  
+We do not knowingly collect personal information from children under the age of 13. In the event that we discover that a child under the age of 13 has provided us with personal information, we will immediately remove it from our servers. If you are a parent or guardian and know that your child has provided us with personal information, please contact us so that we can take the necessary action.  
 
 ### Changes to this Privacy Policy  
 We may update our Privacy Policy from time to time. Accordingly, you are advised to check this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes will take effect immediately upon publication on this page.  
