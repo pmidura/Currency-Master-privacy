@@ -1,4 +1,4 @@
-Polityka prywatności PL - (Please scroll down for English)
+Polityka prywatności PL (Please scroll down for English)
 ----------------
 
 ### Wprowadzenie  
@@ -55,3 +55,41 @@ Our privacy policy will help you understand what information we collect at Curre
 Patryk Midura created Currency Master as a free application. The service is provided by Currency Master free of charge and is intended for use as is.
 If you choose to use our Service, you consent to the collection and use of information in accordance with this policy. The personal information we collect is used to provide and improve the Service. We will not use or share your information with anyone, except as described in this Privacy Policy.  
 Terms used in this Privacy Policy have the same meaning as in our Terms and Conditions, which are available on our website, unless otherwise defined in this Privacy Policy.
+
+<!-- ### Collection and use of information.  
+In order to provide you with a better experience when using our Service, we may require you to provide us with certain personal information, including but not limited to your name, email address, gender, location, photos. The information we ask for will be stored and used by us as described in this privacy policy.  
+The application uses third parties that may collect information to identify you. -->
+
+### Cookies  
+Cookies are files containing a small amount of data that are commonly used as an anonymous, unique identifier. They are sent to the user's browser from the website visited and stored in the internal memory of the device.  
+
+This service does not use cookies explicitly. However, the application may use third-party code and libraries that use cookies to collect information and improve their services. You can accept or reject these cookies and know when a cookie is sent to your device. If you choose to reject our cookies, you may not be able to use some parts of this Service.
+
+<!-- ### Location information  
+Some services may use location information sent from users' cell phones. We only use this information to the extent necessary for the service.  
+
+### Device information  
+In some cases, we collect information from your device. This information will be used to provide better services and prevent fraud. In addition, such information will not contain personally identifiable information about individual users.
+
+### Service providers  
+We may employ companies and third parties for the following reasons:  
+* To facilitate the use of our Service;
+* To provide the Service on our behalf;
+* To provide services related to the Service;
+* To help us analyze how our Service is used.  
+
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform tasks assigned to them on our behalf. However, they are obligated not to disclose or use this information for any other purpose.
+
+### Security  
+We value the trust you place in us by providing us with your personal information, so we strive to use commercially acceptable means to protect it. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its complete security. -->
+
+### Children's privacy  
+The Services are not directed to persons under the age of 13. We do not knowingly collect personal information from children under the age of 13. In the event that we discover that a child under the age of 13 has provided us with personal information, we will immediately remove it from our servers. If you are a parent or guardian and know that your child has provided us with personal information, please contact us so that we can take the necessary action.  
+
+### Changes to this Privacy Policy  
+We may update our Privacy Policy from time to time. Accordingly, you are advised to check this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes will take effect immediately upon publication on this page.  
+
+### Contact Us  
+If you have any questions or suggestions about our Privacy Policy, please contact us.  
+Contact Information:  
+Email: patrykmidura@gmail.com
