@@ -44,3 +44,14 @@ Od czasu do czasu możemy aktualizować naszą Politykę prywatności. W związk
 W przypadku jakichkolwiek pytań lub sugestii dotyczących naszej Polityki prywatności, prosimy o kontakt.  
 Informacje kontaktowe:  
 Email: patrykmidura@gmail.com
+
+----------------
+
+Privacy Policy EN
+----------------
+
+### Introduction  
+Our privacy policy will help you understand what information we collect at Currency Master, how Currency Master uses it, and what choices you have.
+Patryk Midura created Currency Master as a free application. The service is provided by Currency Master free of charge and is intended for use as is.
+If you choose to use our Service, you consent to the collection and use of information in accordance with this policy. The personal information we collect is used to provide and improve the Service. We will not use or share your information with anyone, except as described in this Privacy Policy.  
+Terms used in this Privacy Policy have the same meaning as in our Terms and Conditions, which are available on our website, unless otherwise defined in this Privacy Policy.
